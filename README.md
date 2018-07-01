@@ -1,3 +1,6 @@
+# Info 
+I was cloned this repository from [@alexnm](https://github.com/alexnm) just for learning purpose. You could see the original repository [here](https://github.com/alexnm/react-ssr/). 
+
 # React Server Side Rendering
 A baseline for server side rendering for your React application. This repo has a couple of tags that follow building full support for rendering React applications on the server.
 
