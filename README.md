@@ -2,7 +2,7 @@
 I was cloned this repository from [@alexnm](https://github.com/alexnm) just for learning purpose. You could see the original repository [here](https://github.com/alexnm/react-ssr/). 
 
 # Getting Start
-Clone the repo with
+Clone the repo by
 ```git clone https://github.com/ridoansaleh/react-ssr```
 
 Install dependencies with
