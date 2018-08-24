@@ -14,6 +14,7 @@ Run dev mode with
 Now open the browser and navigate to `http://localhost:2048` and you get your server rendered React app. You can inspect the page source and see that the html coming from your local server has all the nodes defined in the React app.
 
 # Dependencies
+These are the description of each dependency we use in this project :
 
 * [bundlesize](https://github.com/siddharthkp/bundlesize) : keep your bundle size in check
 
